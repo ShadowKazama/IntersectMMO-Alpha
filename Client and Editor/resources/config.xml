@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<!--Config.xml generated automatically by Intersect Game Engine.-->
+<Config>
+  <Language>English</Language>
+  <Host>localhost</Host>
+  <Port>5400</Port>
+  <RenderCache>true</RenderCache>
+  <MenuBgm />
+  <MenuBG>background.png</MenuBG>
+  <Logo>logo.png</Logo>
+  <IntroBg />
+  <Font>arial</Font>
+</Config>
